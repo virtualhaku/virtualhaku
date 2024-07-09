@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects, especially those involving chatbots and community management
 - 🤔 I’m looking for help with testing and feedback for my moderation bot
 - 💬 Ask me about Python, chatbots, or anything tech-related!
-- 📫 How to reach me: [your-email@example.com](samuel.lol2019a@hotmail.com) or Discord: previsivel
-- 😄 Pronouns: [Your pronouns]
+- 📫 How to reach me: [samuel.lol2019a@hotmail.com](samuel.lol2019a@hotmail.com) or Discord: previsivel
 - ⚡ Fun fact: I love exploring new technologies and I'm a big fan of sci-fi novels
 
 ---
