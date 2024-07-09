@@ -11,16 +11,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects, especially those involving chatbots and community management
 - 🤔 I’m looking for help with testing and feedback for my moderation bot
 - 💬 Ask me about Python, chatbots, or anything tech-related!
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 How to reach me: [your-email@example.com](samuel.lol2019a@hotmail.com) or Discord: previsivel
 - 😄 Pronouns: [Your pronouns]
 - ⚡ Fun fact: I love exploring new technologies and I'm a big fan of sci-fi novels
 
 ---
-
-### Projects
-
-- [Community Moderation Bot for Discord](https://github.com/virtualhaku/community-moderation-bot) - A bot designed to help manage and moderate Discord communities efficiently.
-- [Another Project](https://github.com/virtualhaku/another-project) - Brief description of another project you're working on.
 
 ### Skills
 
@@ -30,9 +25,9 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-- [GitHub](https://github.com/virtualhaku)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+- [GitHub](https://github.com/virtualhiro)
+- Discord: previsivel
+- [Twitter](https://x.com/indissimulavel)
 
 ---
 
